@@ -8,4 +8,4 @@ md c:\\_tools
 
 cd c:\\_tools
 
-git clone https://jamesnearn@bitbucket.org/jamesnearn/windows-profile.git
+git clone https://github.com/jamesnearn/windows-profile.git

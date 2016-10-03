@@ -1,0 +1,1 @@
+echo 127.0.0.1 www.sublimetext.com >> c:\windows\system32\drivers\etc\hosts

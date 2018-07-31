@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Command Processor" /v AutoRun /t REG_EXPAND_SZ /d "c:\_tools\windows-profile\environmentTweaks\CommandPrompt\init.cmd" /f

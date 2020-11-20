@@ -1,0 +1,1 @@
+Get-Process explorer | Stop-Process

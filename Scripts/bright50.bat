@@ -1,0 +1,1 @@
+nircmdc setbrightness 50
